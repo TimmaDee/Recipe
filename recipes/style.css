@@ -20,6 +20,9 @@ h1 {
 #button {
     background-color: darkgoldenrod;
     margin: 10px;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
 }
 
 .menu {
